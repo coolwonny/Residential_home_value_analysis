@@ -1,4 +1,5 @@
 # Dallas County Residential Home Values Analysis
+![dallas](Images/downtown-dallas.jpg)
 ---
 by Marcus Kim, Joe Swiderski, Julas Holie, John Millar
 ---
