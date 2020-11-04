@@ -1,6 +1,7 @@
 # Dallas County Residential Home Values Analysis
 ---
-
+by Marcus Kim, Joe Swiderski, Julas Holie, John Millar
+---
 ## Analysis Summary
 From a local perspective, the mean home price in Dallas County increased during the five-year span covering the beginning of 2016 to the beginning of 2020.  All 29 cities within the county moved in a positive correlation with the county’s values.  The same can be said for the mean home value within the 16 independent school districts, although one school district's data was removed due to its small sample size of only (116) properties.
 ![Independent School Districts heat map](https://github.com/johnmyronmillar/JJJandM/blob/1ee705e9050df29d6c78ef7c504d1da6513195bc/Images/ISD%20Heat%20Map.png?raw=true)
